@@ -1,0 +1,2 @@
+Product{productId='s111', pName='sock', pCat='c', price=34, numItemLeft=5}size='red', colour='m'} 
+Product{productId='k888', pName='kettle', pCat='e', price=78, numItemLeft=6}brand='eel', warrantyPeriod=12} 
